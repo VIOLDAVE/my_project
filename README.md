@@ -1,0 +1,2 @@
+This project uses scalable techniques to construct a system that finds similar pairings of book reviews from the Amazon Books Review dataset. The main objective is to use Locality Sensitive Hashing (LSH) in conjunction with MinHashing and Jaccard Similarity to efficiently compute textual similarity, even on big datasets.
+https://colab.research.google.com/drive/1MwRWMtkk9g3liTDdb82f3vIuUxvZI4q6#scrollTo=9dY0sWM2uhlp
