@@ -12,5 +12,5 @@ os.makedirs(os.path.expanduser("~/.kaggle"), exist_ok=True)
 # Copy credentials to the correct location
 shutil.copy("kaggle.json", os.path.expanduser("~/.kaggle/kaggle.json"))
 
-# Set permissions
+#Set permissions
 os.chmod(os.path.expanduser("~/.kaggle/kaggle.json"), 0o600)
